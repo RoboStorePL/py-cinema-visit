@@ -1,5 +1,5 @@
 class Cleaner:
-    """Class representing a cinema cleaner."""
+    """Class represdsdenting a cinema cleaner."""
 
     def __init__(self, name: str) -> None:
         """
